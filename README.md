@@ -118,5 +118,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## Related projects
 
 - [NotebookLM](https://notebooklm.google.com/)
-- [Podcastify.ai](https://github.com/souzatharsis/podcastfy)
+- [Podcastfy.ai](https://github.com/souzatharsis/podcastfy)
 - [Open-NotebookLM](https://github.com/gabrielchua/open-notebooklm)
